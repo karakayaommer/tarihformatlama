@@ -1,0 +1,5 @@
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_006_TarihFormatla\AspNet_006_TarihFormatla\bin\AspNet_006_TarihFormatla.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_006_TarihFormatla\AspNet_006_TarihFormatla\bin\AspNet_006_TarihFormatla.pdb
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_006_TarihFormatla\AspNet_006_TarihFormatla\obj\Debug\AspNet_006_TarihFormatla.csprojResolveAssemblyReference.cache
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_006_TarihFormatla\AspNet_006_TarihFormatla\obj\Debug\AspNet_006_TarihFormatla.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_006_TarihFormatla\AspNet_006_TarihFormatla\obj\Debug\AspNet_006_TarihFormatla.pdb
